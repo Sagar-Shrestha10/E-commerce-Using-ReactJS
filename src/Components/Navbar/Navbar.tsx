@@ -16,7 +16,7 @@ export default function Navbar() {
     <nav className="nav-bar">
       <div className="left-nav-section">
  
-        <Link to="https://github.com/ViNu-23/flipkart-e-commerce-site-react">
+        <Link to="https://github.com/Sagar-Shrestha10/E-commerce-Using-ReactJS">
         <img src="./src/images/ShoeLogo.jpeg" className="flipkart-logo" alt="Shoe Logo" />
         </Link>
         <h1 className="name" >Shoes Store 👟</h1>
